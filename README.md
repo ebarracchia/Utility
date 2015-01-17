@@ -1,4 +1,3 @@
-# ar.com.newsan.utility
 Utility
 =======
 To get and show some usefull android information from device. 
